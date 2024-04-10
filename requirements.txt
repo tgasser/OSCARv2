@@ -1,0 +1,7 @@
+xarray == 2024.3.0
+netCDF4 == 1.6.5
+numpy == 1.26.4
+scipy == 1.13.0
+matplotlib == 3.8.4
+networkx == 3.3
+pandas == 2.2.1
